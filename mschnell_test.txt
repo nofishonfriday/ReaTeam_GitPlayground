@@ -1,0 +1,5 @@
+OK.
+ - Found ReaTeam_GitPlayground 
+ - I set it to be "watched"
+ - "New Pull Request" ->  "Create new Pull request" is grayed.  Me: "???"
+ - Alternative: "create new File" -> Editor. Me: Inputting some lines
